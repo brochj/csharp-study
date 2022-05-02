@@ -1,0 +1,15 @@
+/home/broch/pj/csharp-study/Calculator/bin/Debug/net6.0/Calculator
+/home/broch/pj/csharp-study/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/broch/pj/csharp-study/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/broch/pj/csharp-study/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/broch/pj/csharp-study/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/home/broch/pj/csharp-study/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/broch/pj/csharp-study/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache

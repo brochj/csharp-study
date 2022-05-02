@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/broch/pj/csharp-study/Calculator/Calculator.csproj": {}
+  },
+  "projects": {
+    "/home/broch/pj/csharp-study/Calculator/Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/broch/pj/csharp-study/Calculator/Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "/home/broch/pj/csharp-study/Calculator/Calculator.csproj",
+        "packagesPath": "/home/broch/.nuget/packages/",
+        "outputPath": "/home/broch/pj/csharp-study/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/broch/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
