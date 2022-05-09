@@ -1,3 +1,5 @@
+using Oop.SharedContext;
+
 namespace Oop.ContentContext
 {
     public class Module : Base

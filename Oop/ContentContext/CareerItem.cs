@@ -1,4 +1,5 @@
 using Oop.NotificationContext;
+using Oop.SharedContext;
 
 namespace Oop.ContentContext
 {

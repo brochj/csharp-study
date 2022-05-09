@@ -1,5 +1,7 @@
 
 
+using Oop.SharedContext;
+
 namespace Oop.ContentContext
 {
 
